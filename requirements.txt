@@ -1,0 +1,3 @@
+streamlit
+pandas
+unicodedata2
